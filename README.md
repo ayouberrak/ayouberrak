@@ -27,7 +27,7 @@ en alliant logique du code et sens du détail visuel.
 - 🚀 En apprentissage continu de **React** et **Laravel**  
 - ⚙️ J’aime travailler sur des projets complets : **Front + Back + UI/UX**  
 - 💬 Toujours prêt à collaborer sur des projets intéressants  
-- 📫 **Contact :** ayoub.errak@example.com *(à modifier)*  
+- 📫 **Contact :** ayouberrak30@gmail.com   
 
 ---
 
@@ -95,6 +95,4 @@ en alliant logique du code et sens du détail visuel.
 
 </div>
 
----
 
-🖋️ *Dernière mise à jour : Octobre 2025*  
