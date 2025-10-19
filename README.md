@@ -81,8 +81,9 @@ en alliant logique du code et sens du détail visuel.
 | Projet | Description | Lien |
 |--------|-------------|------|
 | **Bibliothèque en ligne** | Site web avec téléchargement de livres et espace personnel | [Voir](#) |
-| **Festava Live 2025** | Site événementiel moderne avec UX améliorée | [Voir](#) |
-| **Portfolio interactif** | Showcase de projets avec animations et responsive design | [Voir](#) |
+| **Festava Live 2025** | Site événementiel moderne avec UX améliorée | [Voir](https://ayouberrak.github.io/Festava-Plateforme-de-Billetterie-v-nementielle/) |
+| **Template One Page** | Separer et ameliorer une tamplate one page| [Voir](https://ayouberrak.github.io/Am-lioration-organisation-et-r-utilisation-d-un-template-One-page/) |
+| **Portfolio interactif** | Showcase de projets avec animations et responsive design | [Voir](https://ayouberrak.github.io/Ayoub-errak-portofilo/) |
 
 ---
 
@@ -92,7 +93,7 @@ en alliant logique du code et sens du détail visuel.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyoubErrak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayouberrak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayouberrak.github.io/Ayoub-errak-portofilo/)
 
 </div>
 
