@@ -74,9 +74,9 @@ en alliant logique du code et sens du détail visuel.
 ![ES6+](https://img.shields.io/badge/ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Object--Oriented_Programming-blue?style=for-the-badge&logo=codereview&logoColor=white)
+![](https://img.shields.io/badge/OOP-Object--Oriented_Programming-blue?style=for-the-badge&logo=codereview&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-Model_View_Controller-red?style=for-the-badge&logo=laravel&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-Design_Patterns-orange?style=for-the-badge&logo=conceptshare&logoColor=white)
+![](https://img.shields.io/badge/Design_Patterns-Design_Patterns-orange?style=for-the-badge&logo=conceptshare&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 
