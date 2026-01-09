@@ -68,6 +68,16 @@ en alliant logique du code et sens du détail visuel.
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-203562?style=for-the-badge&logo=laragon&logoColor=white)
+![Migrations](https://img.shields.io/badge/Database_Migrations-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Eloquent](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![ES6+](https://img.shields.io/badge/ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Object--Oriented_Programming-blue?style=for-the-badge&logo=codereview&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-Model_View_Controller-red?style=for-the-badge&logo=laravel&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-Design_Patterns-orange?style=for-the-badge&logo=conceptshare&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 
 ---
