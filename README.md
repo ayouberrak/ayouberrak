@@ -78,7 +78,14 @@ en alliant logique du code et sens du détail visuel.
 ![MVC](https://img.shields.io/badge/MVC-Model_View_Controller-red?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Design_Patterns-Design_Patterns-orange?style=for-the-badge&logo=conceptshare&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-Domain_Driven_Design-4C566A?style=for-the-badge&logo=codeforces&logoColor=white)
+![DTO](https://img.shields.io/badge/DTO-Data_Transfer_Object-5E81AC?style=for-the-badge&logo=databricks&logoColor=white)
+![DAO](https://img.shields.io/badge/DAO-Data_Access_Object-88C0D0?style=for-the-badge&logo=datagrip&logoColor=white)
+![Repository](https://img.shields.io/badge/Repository-Pattern-A3BE8C?style=for-the-badge&logo=gitkraken&logoColor=white)
+![Services](https://img.shields.io/badge/Services-Layer-EBCB8B?style=for-the-badge&logo=microservices&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-D08770?style=for-the-badge&logo=awesomelists&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-BF616A?style=for-the-badge&logo=cleanarchitecture&logoColor=white)
 
 ---
 
